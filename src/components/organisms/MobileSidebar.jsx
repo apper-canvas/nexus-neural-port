@@ -4,9 +4,10 @@ import ApperIcon from "@/components/ApperIcon";
 import { cn } from "@/utils/cn";
 
 const MobileSidebar = ({ isOpen, onClose }) => {
-  const navItems = [
+const navItems = [
     { path: "/", icon: "LayoutDashboard", label: "Dashboard" },
     { path: "/contacts", icon: "Users", label: "Contacts" },
+    { path: "/leads", icon: "UserCheck", label: "Leads" },
     { path: "/pipeline", icon: "TrendingUp", label: "Pipeline" }
   ];
 

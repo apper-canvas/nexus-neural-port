@@ -1,0 +1,98 @@
+[
+  {
+    "Id": 1,
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@techcorp.com",
+    "phone": "+1 (555) 123-4567",
+    "company": "TechCorp Solutions",
+    "status": "qualified",
+    "source": "Website",
+    "value": 75000,
+    "tags": ["enterprise", "technology", "hot-lead"],
+    "notes": "Interested in enterprise package. Follow up next week for demo."
+  },
+  {
+    "Id": 2,
+    "name": "Michael Chen",
+    "email": "m.chen@innovateai.com",
+    "phone": "+1 (555) 234-5678",
+    "company": "Innovate AI",
+    "status": "contacted",
+    "source": "Referral",
+    "value": 120000,
+    "tags": ["ai", "startup", "high-value"],
+    "notes": "Referred by John Smith. Scheduled demo for Thursday."
+  },
+  {
+    "Id": 3,
+    "name": "Emily Rodriguez",
+    "email": "emily.r@globalfinance.com",
+    "phone": "+1 (555) 345-6789",
+    "company": "Global Finance Inc",
+    "status": "new",
+    "source": "Cold Call",
+    "value": 50000,
+    "tags": ["finance", "enterprise"],
+    "notes": "Initial contact made. Waiting for callback."
+  },
+  {
+    "Id": 4,
+    "name": "David Park",
+    "email": "david.park@retailpro.com",
+    "phone": "+1 (555) 456-7890",
+    "company": "RetailPro Systems",
+    "status": "qualified",
+    "source": "Trade Show",
+    "value": 90000,
+    "tags": ["retail", "mid-market", "warm-lead"],
+    "notes": "Met at TechExpo 2024. Very interested in our retail solutions."
+  },
+  {
+    "Id": 5,
+    "name": "Lisa Anderson",
+    "email": "lisa.anderson@healthtech.com",
+    "phone": "+1 (555) 567-8901",
+    "company": "HealthTech Innovations",
+    "status": "contacted",
+    "source": "LinkedIn",
+    "value": 85000,
+    "tags": ["healthcare", "compliance", "enterprise"],
+    "notes": "Reached out via LinkedIn. Interested in compliance features."
+  },
+  {
+    "Id": 6,
+    "name": "James Wilson",
+    "email": "j.wilson@edulearn.com",
+    "phone": "+1 (555) 678-9012",
+    "company": "EduLearn Platform",
+    "status": "lost",
+    "source": "Email Campaign",
+    "value": 45000,
+    "tags": ["education", "small-business"],
+    "notes": "Went with competitor. Budget constraints cited."
+  },
+  {
+    "Id": 7,
+    "name": "Maria Garcia",
+    "email": "maria.g@manufact.com",
+    "phone": "+1 (555) 789-0123",
+    "company": "Manufacturing Plus",
+    "status": "new",
+    "source": "Website",
+    "value": 110000,
+    "tags": ["manufacturing", "enterprise", "hot-lead"],
+    "notes": "Submitted contact form. Urgent need for solution."
+  },
+  {
+    "Id": 8,
+    "name": "Robert Taylor",
+    "email": "r.taylor@logisticshub.com",
+    "phone": "+1 (555) 890-1234",
+    "company": "Logistics Hub",
+    "status": "qualified",
+    "source": "Referral",
+    "value": 95000,
+    "tags": ["logistics", "mid-market", "warm-lead"],
+    "notes": "Referred by existing client. High conversion probability."
+  }
+]

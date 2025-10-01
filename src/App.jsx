@@ -7,6 +7,7 @@ import Header from "@/components/organisms/Header";
 import Dashboard from "@/components/pages/Dashboard";
 import Contacts from "@/components/pages/Contacts";
 import ContactDetail from "@/components/pages/ContactDetail";
+import Leads from "@/components/pages/Leads";
 import Pipeline from "@/components/pages/Pipeline";
 import Button from "@/components/atoms/Button";
 import ApperIcon from "@/components/ApperIcon";
@@ -52,7 +53,7 @@ function App() {
 
             <main className="flex-1 p-6">
               <div className="max-w-7xl mx-auto">
-                <Routes>
+<Routes>
                   <Route path="/" element={<Dashboard />} />
                   <Route 
                     path="/contacts" 
@@ -64,6 +65,7 @@ function App() {
                     } 
                   />
                   <Route path="/contacts/:id" element={<ContactDetail />} />
+                  <Route path="/leads" element={<Leads />} />
                   <Route 
                     path="/pipeline" 
                     element={
